@@ -2,7 +2,7 @@
 
 	let defaultFrameworks = {
 		'bootstrap': {
-			width: ['XL', 1200, 'LG', 992, 'MD', 768, 'SM', 0]
+			width: ['XXL', 1500, 'XL', 1200, 'LG', 992, 'MD', 768, 'SM', 576, 'XS', 0]
 		}
 	};
 
